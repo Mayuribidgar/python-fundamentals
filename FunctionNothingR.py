@@ -3,7 +3,7 @@
 
 def Display(Value):
    print("Inaside the Display:",Value)
-   return Display
+   return 
 def main():
      Ret=Display(10)
      print("Return Is:",Ret)
